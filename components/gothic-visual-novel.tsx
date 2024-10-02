@@ -163,7 +163,7 @@ const script: Dialogue[] = [
 
   {
     speaker: "해설자",
-    text: "끝!!!!! 생일축하합니다 귤포피님!!!",
+    text: "끝!!!!! 생일 축하합니다 귤포피님!!!",
     image:
       "https://images.gmanews.tv/webpics/2020/12/Screen_Shot_2020-12-09_at_10_2020_12_09_10_53_01.png",
     hidden: true,
