@@ -71,7 +71,7 @@ const script: Dialogue[] = [
   },
   {
     speaker: "포피",
-    text: "(진지하게, 그러나 기쁘게) 카를! 프리드리히! 와주셔서 감사합니다.",
+    text: "(기쁘게) 카를 님! 프리드리히 님! 와주셔서 감사합니다.",
     image: "https://pbs.twimg.com/media/GD40pZdaUAAISLq?format=jpg&name=large",
   },
   {
@@ -112,7 +112,7 @@ const script: Dialogue[] = [
   },
   {
     speaker: "포피",
-    text: "(고개를 끄덕이며) 괜찮아요, 프리드리히 님. 중요한 것은 우리 모두가 함께 있다는 사실이죠. 저는 이 순간을 소중히 여기고 있습니다.",
+    text: "(고개를 끄덕이며) 괜찮아요, 프리드리히 님. 중요한 것은 우리가 함께 있다는 사실이죠. 저는 이 순간을 평생 소중히 여길 것 같습니다.",
     image: "https://pbs.twimg.com/media/GD40pZdaUAAISLq?format=jpg&name=large",
   },
   {
