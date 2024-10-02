@@ -292,15 +292,14 @@ export function GothicVisualNovelComponent() {
               </DialogTitle>
               <DialogDescription className="text-amber-200 text-md">
                 카를 마르크스와 그의 동료 프리드리히 엥겔스가 학생 귤포피의 생일
-                파티에 초대된다. <br />
-                이들이 한자리에 모인 이유는 단순한 생일 축하가 아니다. 철학과
-                혁명, 그리고 개인적인 이야기가 얽힌 이 특별한 밤의 이야기를 지금
-                만나보아라.
+                파티에 초대된다. <br /> 철학과 혁명, 그리고 개인적인 이야기가
+                얽힌 이 특별한 밤의 이야기를 지금 만나보아라.
                 <br />
                 <br />
                 <p className="text-sm">
                   <strong className="font-bold">주의:</strong> 이 대화는
-                  픽션입니다. 실제 역사적 사실과 다를 수 있습니다.
+                  픽션입니다. <br />
+                  실제 역사적 사실과 다를 수 있습니다.
                 </p>
                 <br />
                 <br />
