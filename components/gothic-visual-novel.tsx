@@ -303,7 +303,10 @@ export function GothicVisualNovelComponent() {
                 </p>
                 <br />
                 <br />
-                <p>Made by Jeeho Ahn (안지호) in 2024</p>
+                <p>
+                  Made by <a href="https://jcde.xyz">Jeeho Ahn (안지호)</a> in
+                  2024
+                </p>
               </DialogDescription>
             </DialogHeader>
             <div className="mt-4 flex justify-center">
