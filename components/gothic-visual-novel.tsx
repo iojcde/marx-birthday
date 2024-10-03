@@ -304,8 +304,11 @@ export function GothicVisualNovelComponent() {
                 <br />
                 <br />
                 <p>
-                  Made by <a href="https://jcde.xyz">Jeeho Ahn (안지호)</a> in
-                  2024
+                  Made by{" "}
+                  <a className="underline" href="https://jcde.xyz">
+                    Jeeho Ahn (안지호)
+                  </a>{" "}
+                  in 2024
                 </p>
               </DialogDescription>
             </DialogHeader>
